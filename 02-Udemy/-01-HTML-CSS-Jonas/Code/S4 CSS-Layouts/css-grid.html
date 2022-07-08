@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CSS Grid</title>
+    <style>
+      .one {
+        background-color: blueviolet;
+      }
+      .two {
+        background-color: orangered;
+      }
+      .three {
+        background-color: green;
+        height: 150px;
+      }
+      .four {
+        background-color: goldenrod;
+      }
+      .five {
+        background-color: palevioletred;
+      }
+      .six {
+        background-color: steelblue;
+      }
+      .seven {
+        background-color: yellow;
+      }
+      .eight {
+        background-color: crimson;
+      }
+
+      .container-one {
+        /* Starter*/
+        font-family: sans-serif;
+        background-color: #ddd;
+        font-size: 30px;
+        margin: 40px;
+
+        /* CSS grid */
+        display: grid;
+        /* grid-template-columns: 200px 200px 1fr 1fr; */
+        /* grid-template-rows: 300px 200px; */
+        /* grid-template-columns: 1fr 1fr 1fr auto; */
+
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: 1fr 1fr;
+        /* height: 500px; */
+
+        /* gap: 30px; */
+        column-gap: 20px;
+        row-gap: 40px;
+
+        /* Temp */
+        display: none;
+      }
+
+      .eight {
+        grid-column: 2 / 3;
+        /* grid-row: 1 / span 2; */
+        grid-row: 1 / 2;
+      }
+
+      .two {
+        /* grid-column: 1 / 4; */
+        /* grid-column: 1 / span 4; */
+        grid-column: 1 / -1;
+        grid-row: 2;
+      }
+
+      .six {
+        /* grid-row: 3 / 5; */
+      }
+
+      .container-two {
+        /* display: none; */
+        /* starter */
+        font-family: sans-serif;
+        background-color: black;
+        font-size: 40px;
+        margin: 40px;
+
+        width: 700px;
+        height: 600px;
+
+        /* CSS grid */
+        display: grid;
+        grid-template-columns: 125px 200px 125px;
+        grid-template-rows: 250px 100px;
+        gap: 50px;
+
+        /* Aligning tracks inside container: distribute empty space */
+        justify-content: center;
+        /* justify-content: space-between; */
+        align-content: center;
+
+        /* Aligning items inside cells: moving items around inside cells */
+        align-items: end;
+        justify-items: end;
+        /* display: none; */
+      }
+
+      .three {
+        align-self: center;
+        justify-self: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container-one">
+      <div class="text one">(1) HTML</div>
+      <div class="text two">(2) and</div>
+      <div class="text three">(3) CSS</div>
+      <div class="text four">(4) are</div>
+      <div class="text five">(5) amazing</div>
+      <div class="text six">(6) languages</div>
+      <!-- <div class="text seven">(7) to</div> -->
+      <div class="text eight">(8) learn</div>
+    </div>
+
+    <div class="container-two">
+      <div class="text one">(1)</div>
+      <div class="text three">(3)</div>
+      <div class="text four">(4)</div>
+      <div class="text five">(5)</div>
+      <div class="text six">(6)</div>
+      <div class="text seven">(7)</div>
+    </div>
+  </body>
+</html>
