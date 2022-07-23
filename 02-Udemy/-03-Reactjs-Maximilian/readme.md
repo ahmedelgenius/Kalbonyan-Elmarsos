@@ -92,7 +92,7 @@
 ### Meetsup app(S23)
 
 - [Project-code](./Projects/meetsup-app)
-- [Live Demo]()
+- [Live Demo](https://sec23.netlify.app/)
 
 ### Animation-app (S24)
 
