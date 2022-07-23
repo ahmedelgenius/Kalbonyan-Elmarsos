@@ -82,7 +82,7 @@
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo](https://sec20.netlify.app/quotes)
+- [Live Demo](https://sec20.netlify.app/)
 
 ### Authentication-page(S22)
 
