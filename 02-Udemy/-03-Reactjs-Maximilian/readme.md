@@ -22,7 +22,7 @@
 <br/>
 
 - [Section 6 Project Live Demo](https://sec6.netlify.app/)
-- [Section 7 Project Live Demo]()
+- [Section 7 Project Live Demo](https://sec7.netlify.app/)
 
 ### Section 8-9 Project
 
