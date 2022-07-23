@@ -12,7 +12,7 @@
 
 - [Section 3 Project Live Demo](https://sec3.netlify.app/)
 - [Section 4 Project Live Demo](https://sect4.netlify.app)
-- [Section 5 Project Live Demo]()
+- [Section 5 Project Live Demo](https://sec5.netlify.app/)
 
 ### goals app (S6-S7)
 
