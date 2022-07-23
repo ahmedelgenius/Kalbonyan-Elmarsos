@@ -11,7 +11,7 @@
   <br/>
 
 - [Section 3 Project Live Demo](https://sec3.netlify.app/)
-- [Section 4 Project Live Demo]()
+- [Section 4 Project Live Demo](https://sect4.netlify.app)
 - [Section 5 Project Live Demo]()
 
 ### goals app (S6-S7)
