@@ -10,7 +10,7 @@
 - [Live Demo](https://weatherprojectt.herokuapp.com/)
 ### Chat App
 - [Project-code](./Projects/Chat-App)
-- [Live Demo]()
+- [Live Demo](https://chatproject1.herokuapp.com/)
 
 ---
 ## Code
