@@ -66,8 +66,8 @@
 <span id="AWS"></span>
 # Learn How to Deploy your web applications with Cloud Provider (AWS)
 ![100%](https://progress-bar.dev/100/?title=Done)
-- [ ]  `in progress` `16h` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](03-aCloudGuru/AWS%20Certified%20Cloud%20Practitioner%20(CLF-C01)/)
-- [ ]  `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](https://verify.acloud.guru/DBDF148CA77A?_ga=2.196141484.1229851757.1660500600-1867028168.1631905497&_gac=1.87573226.1659640311.CjwKCAjw3K2XBhAzEiwAmmgrAkObJ4PHYKdiaPUV8_dcRsmDaqsTxkpKV7fNvD9qJPnMpinpzaVlXxoCXdAQAvD_BwE)
+- [x]  `in progress` `16h` - 16 - [AWS Certified Cloud Practitioner (CLF-C01)](https://verify.acloud.guru/B71F2953F8E2?_ga=2.91285146.1229851757.1660500600-1867028168.1631905497&_gac=1.113438453.1659640311.CjwKCAjw3K2XBhAzEiwAmmgrAkObJ4PHYKdiaPUV8_dcRsmDaqsTxkpKV7fNvD9qJPnMpinpzaVlXxoCXdAQAvD_BwE)
+- [x]  `in progress` `42h` - 17 - [AWS Certified Solutions Architect Associate (SAA-C02)](https://verify.acloud.guru/DBDF148CA77A?_ga=2.196141484.1229851757.1660500600-1867028168.1631905497&_gac=1.87573226.1659640311.CjwKCAjw3K2XBhAzEiwAmmgrAkObJ4PHYKdiaPUV8_dcRsmDaqsTxkpKV7fNvD9qJPnMpinpzaVlXxoCXdAQAvD_BwE)
 
 <img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-58h-blue">
 <br />
