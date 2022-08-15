@@ -23,8 +23,8 @@
 <br />
 - ## Programming foundations path and HTML and CSS
 
-    - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](https://drive.google.com/file/d/1hoFqcumLXKJJ1ZF6W-AsPsv_RtI3ufYr/view?usp=sharing)
-    - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
+    - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundations-Fundamentals)
+    - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals]()
     - [x] ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](https://drive.google.com/file/d/1CxB9ioxbDFwvTRgFdZzlhvQvBENPVp1w/view?usp=sharing)
     - [x] ` in progress` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](https://drive.google.com/file/d/1x6rn9dwr39XWa_CJMm84jMZrx_vUh25B/view?usp=sharing)
     - [x] ` in progress` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](https://drive.google.com/file/d/1jBbQBg0IwUWVkkMdURUnE9jhXJr6JTsO/view?usp=sharing)
