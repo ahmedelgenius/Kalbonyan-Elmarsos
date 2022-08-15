@@ -24,16 +24,16 @@
 - ## Programming foundations path and HTML and CSS
 
     - [x] ` in progress` ` 2h 6m 40s` - 01 - [Programming Foundations: Fundamentals](01-Linkedin-Learning/-01-Programming-Foundation-Fundamentals)
-    - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals]()
-    - [x] ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](https://drive.google.com/file/d/1CxB9ioxbDFwvTRgFdZzlhvQvBENPVp1w/view?usp=sharing)
-    - [x] ` in progress` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](https://drive.google.com/file/d/1x6rn9dwr39XWa_CJMm84jMZrx_vUh25B/view?usp=sharing)
-    - [x] ` in progress` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](https://drive.google.com/file/d/1jBbQBg0IwUWVkkMdURUnE9jhXJr6JTsO/view?usp=sharing)
-    - [x] ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](https://drive.google.com/file/d/1T5qBXNJeCaUb9mcIu1VzIw43wBzVimJY/view?usp=sharing)
-    - [x] ` in progress` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](https://drive.google.com/file/d/1S-f0DW1WjgSzK9jLVCb4j4kd1rZaIdE1/view?usp=sharing)
-    - [x] ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](https://drive.google.com/file/d/1PXefjbkd6rqVFsyaE5ZB-roYP4TC8Bnp/view?usp=sharing)
-    - [x] ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](https://drive.google.com/file/d/1_FTRYT_mtwlPe0LlCsCLLpGgJitZnxDX/view?usp=sharing)
-    - [x] ` in progress` ` 2h 11m ` - 10 - [Learning GitHub](https://drive.google.com/file/d/1DtE7nvmx917kW9eIckxF_rglm8NnHUyl/view?usp=sharing)
-    - [x] ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](https://drive.google.com/file/d/1sgHrwCliLkrgqeKhje9iSJWLb3fJQdJ8/view?usp=sharing)
+    - [x] ` in progress` ` 2h 4m 44s` - 02 - [Programming Foundations: Beyond the Fundamentals](01-Linkedin-Learning/-02-Programming-Foundations-Beyond-Fundamentals)
+    - [x] ` in progress` ` 2h 40m 37s` - 03 - [Programming Foundations: Object-Oriented Design](01-Linkedin-Learning/-03-Programming-Foundation-Object-Oriented-Design)
+    - [x] ` in progress` ` 2h 20m 56s` - 04 - [Programming Foundations: Data Structures](01-Linkedin-Learning/-04-Programming-Foundations-Data-Structures)
+    - [x] ` in progress` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](01-Linkedin-Learning/-05-Programming-Foundations-Algorithms)
+    - [x] ` in progress` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](01-Linkedin-Learning/-06-Programming-Foundations-Design-Patterns)
+    - [x] ` in progress` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](01-Linkedin-Learning/-07-Programming-Foundations-Databases)
+    - [x] ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services)
+    - [x] ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA)
+    - [x] ` in progress` ` 2h 11m ` - 10 - [Learning GitHub](-10-Learning-GitHub)
+    - [x] ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
 
     <br />
 
