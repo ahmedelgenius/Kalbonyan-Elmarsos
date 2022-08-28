@@ -9,7 +9,7 @@
 <br>
 ## Screenshots
 <br>
-(04-Serverless-Stack-Project/signup.png)
+[signup](04-Serverless-Stack-Project/signup.png)
 
 
 
