@@ -29,7 +29,14 @@
 
 ## Features
 
--
--
--
--
+- Signup In Website
+- Signin 
+- Logout
+- Create Note
+- Get Notes List
+- Update Note
+- Delete Note
+- Settings
+- Routes
+- Authentication
+- Purchase A Service
