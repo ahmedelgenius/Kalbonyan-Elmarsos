@@ -9,7 +9,7 @@
 <br>
 ## Screenshots
 <br>
-[signup](https://user-images.githubusercontent.com/90596200/187058972-89ef9192-9707-4b41-ade0-81f1cc1a1458.png)
+(04-Serverless-Stack-Project/signup.png)
 
 
 
