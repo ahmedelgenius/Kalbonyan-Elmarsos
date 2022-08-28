@@ -9,7 +9,8 @@
 <br>
 ## Screenshots
 
-[App Screenshot](https://user-images.githubusercontent.com/90596200/187058809-9b72ef02-4e70-417d-b983-c151e6714e77.png)
+![App Screenshot]
+(https://user-images.githubusercontent.com/90596200/187058809-9b72ef02-4e70-417d-b983-c151e6714e77.png)
 
 
 ## Features
