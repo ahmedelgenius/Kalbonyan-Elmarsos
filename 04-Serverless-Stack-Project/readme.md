@@ -9,7 +9,7 @@
 <br>
 ## Screenshots
 <br>
-![signup](Kalbonyan-Elmarsos/04-Serverless-Stack-Project/signup.png)
+[signup](Kalbonyan-Elmarsos/04-Serverless-Stack-Project/signup.png)
 ![signup](https://user-images.githubusercontent.com/90596200/187059096-59d32d29-5c78-4383-9386-466002957ba3.png)
 <br>
 [login](https://user-images.githubusercontent.com/90596200/187059106-ebc36037-6b68-41ab-af7f-e0e85d2b3f5d.png)
